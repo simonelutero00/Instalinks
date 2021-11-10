@@ -1,2 +1,2 @@
 # Instalinks
-Page about Instagram Page with some bottons that links other informations
+Page about Instagram Page with some buttons that links other informations
